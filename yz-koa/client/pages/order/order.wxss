@@ -1,0 +1,31 @@
+/* pages/my/order/order.wxss */
+.page__bd{
+    height: 100%;
+}
+.page__bd{
+    padding-bottom: 0;
+}
+.weui-tab__content{
+    padding-top: 60px;
+    text-align: center;
+}
+
+.weui_cell_hd{
+ display:flex;
+ height: 100%;
+ justify-content: center;
+ align-items:center;
+ 
+}
+
+.weui_cell_hd image{
+  padding-top: 50px;
+  width:300rpx;
+  height:250rpx;
+}
+
+
+.weui_cell_bd_p{
+  justify-content: center;
+  align-items:center;
+}

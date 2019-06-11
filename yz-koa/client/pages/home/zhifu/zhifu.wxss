@@ -1,0 +1,4 @@
+/* pages/index/zhifu/zhifu.wxss */
+.page{
+    background: #FEFEFE;
+}
